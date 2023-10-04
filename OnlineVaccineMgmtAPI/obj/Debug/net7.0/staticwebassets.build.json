@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0or/TmruNssD5VJ7DuFWCAJ+/zXbHZzsCKmqWT0JCDU=",
+  "Source": "OnlineVaccineMgmtAPI",
+  "BasePath": "_content/OnlineVaccineMgmtAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
